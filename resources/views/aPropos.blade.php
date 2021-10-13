@@ -17,7 +17,7 @@
 <body>
     <nav class="navbar navbar-expand-sm bg-light" style="display: grid; grid-template-columns: 0.2fr 1fr 0.2fr;">
         <a href="#">
-            <img src="{{asset('wallpaper/logo2.png')}}" alt="logo" style="width: 100%; height:130px">
+            <img src="{{asset('Wallpaper/logo2.png')}}" alt="logo" style="width: 100%; height:130px">
         </a>
         <div class="navitems_jac">
             <p style="text-align: center; font-size:20px; font-weight:bold ">JEUNES AMOUREUX DE CHRIST</p>
@@ -60,7 +60,7 @@
             <div class="qui_sommes_nous">
                 <div>
                    <p style="font-weight: bold; text-align:center; font-size:22px;">QUI SOMMES-NOUS ?</p><br>
-                   <div style="height: 400px; margin:10px 25%"><img src="{{asset('wallpaper/logo.jpg')}}" alt="logo" style="width: 100%; height:90%"></div>
+                   <div style="height: 400px; margin:10px 25%"><img src="{{asset('Wallpaper/logo.jpg')}}" alt="logo" style="width: 100%; height:90%"></div>
                    <p style="margin: 0px 5%;"><span style="font-weight: bold;"> Jeunes Amoureux de Christ</span> est une plateforme consacrée à la Jeunesse, la Spiritualité, la Culture et l’Entrepreneuriat. Notre objectif est de présenter Christ à la jeunesse comme étant le seul chemin, la vérité et la vie. Pour tous les jeunes, que ce soit un lycéen, un étudiant, un jeune actif ou tout simplement un jeune dans l’âme, nous souhaitons vivement par la grâce de Dieu, que leur intelligence soit renouvelée afin qu’ils puissent manifester pleinement la gloire de Dieu dans tous les domaines de leur vie.</p>
                 </div>
                 <br>
@@ -88,7 +88,7 @@
             <p style="font-weight: bold; text-align:center; font-size:22px;">UN MOT DU FONDATEUR</p>
             <br>
             <div class="contenu_du_a_propos" style="display: grid; grid-template-columns: 0.4fr 0.8fr; gap:3%">
-                    <img src="{{asset('wallpaper/rev.jpg')}}" alt="reverand" style="height: 50%; width:100%">
+                    <img src="{{asset('Wallpaper/rev.jpg')}}" alt="reverand" style="height: 50%; width:100%">
                 <div class="text"> <p style="font-weight: bold;" >“VEUX-TU VRAIMENT UN MIRACLE ? ALORS, DEVIENS CE MIRACLE”.</p>
                     Toute la philosophie de l’idée provient de ce groupe de mot, il en est le slogan. En effet, je me suis longtemps posé la question de savoir : quel est le réel sens du mot <span style="font-weight: bold;">“MIRACLE”</span>, dans cette société où nous jeunes, devrions nous affirmer pleinement ? Eh bien, force est de constater que la réponse est bien évidente : <span style="font-weight: bold;"> LA JEUNESSE A BESOIN D’UN VRAI MIRACLE</span>. Non pas juste pour lutter contre la médiocrité, la nonchalance, la paresse, la fornication, le fait d’attribuer la faute à nos devanciers ou au reste du monde, sauf à nous-mêmes ; mais pour en finir une bonne fois pour toute avec tous les vices qui nous maintiennent au sol, en renouvelant complètement notre intelligence, afin de passer à la dimension supérieure. Cependant, sous l’inspiration du Saint-Esprit, j’ai fini par comprendre que ce dont <span style="font-weight: bold;">la jeunesse a réellement besoin n’est pas juste un miracle, mais plutôt de devenir le miracle.</span> Chose qui ne peut se faire par notre propre force, mais par la puissance de Christ. En se confiant à lui, nous décuplons nos capacités et prenons de l’envol comme les aigles. Sachant que notre force n’est rien, nous nous attendons alors à Dieu dans tous les domaines de notre vie et grâce à cela, nous sommes plus que vainqueur. Nous pouvons alors planer sur le vent de l’Esprit Saint comme l’aigle plane dans le ciel, et vivre une vie victorieuse et épanouie en Christ. C’est en cela que nous atteindrons l’apogée ; que la création toute entière, contemplera la manifestation du <span style="font-weight: bold;">“MIRACLE”</span> que nous sommes devenus grâce à Jésus-Christ. Je prie qu’à chaque fois que vous visiterez ce blog, qu’un miracle s’opère dans votre vie. J’adresse mes actions de grâce à Dieu, qui a permis que tout cela soit possible et je vous remercie d’être là pour l’avancement de cette mission. Dieu vous bénisse ! 
                     <br><br>

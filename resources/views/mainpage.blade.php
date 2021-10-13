@@ -68,7 +68,7 @@
         <p style="  color:wheat; font-size:20px; padding-top:5px; margin: 4% 40%; text-align: center; height: 40px; background-color: orangered;border-radius: 5px; ">RECENT ARTICLE</p>
                     <div class="rencentArticleLink" style="margin: 10px 20%; box-shadow: 6px 6px 6px wheat;" >    
                     <a href="#">
-                            <img src="Wallpaper/Wallpaper2you_212133.jpg" alt="article recent" style="height: 400px; width: 100%;">
+                            <img src="Wallpaper/1amoureux.jpg" alt="article recent" style="height: 400px; width: 100%;">
                         </a>
                             <p style=" padding-left:20px; margin-top: 20px;">EV Reynold TOKANOU</p>
                             <p style="padding-left:20px;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo maxime eveniet voluptas recusandae.</p>

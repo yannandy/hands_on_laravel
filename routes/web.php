@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('mainpage');
 });
-Route::get('mainpage', 'App\Http\Controllers\mainPageController@index');
+/* Route::get('mainpage', 'App\Http\Controllers\mainPageController@index'); */
 Route::get('article', 'App\Http\Controllers\mainPageController@article');
 Route::get('/aPropos', 'App\Http\Controllers\mainPageController@aPropos');
 
