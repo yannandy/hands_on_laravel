@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="https://use.typekit.net/shh1fpl.css">
 </head>
 <body>
-    <nav class="navbar navbar-expand-sm bg-light" style="display: grid; grid-template-columns: 0.2fr 1fr 0.2fr;">
+<nav class="navbar navbar-expand-sm bg-light" style="display: grid; grid-template-columns: 0.2fr 1fr 0.2fr;">
         <a href="#">
             <img src="{{asset('Wallpaper/logo2.png')}}" alt="logo" style="width: 100%; height:130px">
         </a>
@@ -23,27 +23,29 @@
             <p style="text-align: center; font-size:20px; font-weight:bold ">JEUNES AMOUREUX DE CHRIST</p>
             <ul class="navbar-nav style" style="justify-content: center;" >
                 <li class="nav-item">
-                    <a class='nav-link'href="mainpage"> ACCEUIL </a>
+                    <a class='nav-link'href="mainpage" style="font-size: 15px;"> ACCEUIL </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="aPropos"> A PROPOS </a>
+                    <a class='nav-link' href="aPropos" style="font-size: 15px;"> A PROPOS </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="mainpage"> NOS ARTICLES </a>
+                    <a class='nav-link' href="#articles" style="font-size: 15px;"> NOS ARTICLES </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="mainpage"> NOS PARTENAIRES </a>
+                    <a class='nav-link' href="#partenaires" style="font-size: 15px;"> NOS PARTENAIRES </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="#temoignages"> TEMOIGNAGES </a>
+                    <a class='nav-link' href="#temoignages" style="font-size: 15px;"> TEMOIGNAGES </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="mainpage"> FAIRE UN DON</a>
+                    <a class='nav-link' href="mainpage" style="font-size: 15px;"> FAIRE UN DON</a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="mainpage"> CONTACTS </a>
+                    <a class='nav-link' href="#contact" style="font-size: 15px;"> CONTACTS </a>
                 </li>
-
+                <li class="nav-item">
+                    <a class='nav-link' href="sidebar_profil" style="font-size: 15px;"> CONNEXION </a>
+                </li>
             </ul>
         </div>
         <div class="icon" style="display: flex; justify-content: flex-end; margin-right: 8%; gap:20px">

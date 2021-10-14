@@ -22,25 +22,28 @@
             <p style="text-align: center; font-size:20px; font-weight:bold ">JEUNES AMOUREUX DE CHRIST</p>
             <ul class="navbar-nav style" style="justify-content: center;" >
                 <li class="nav-item">
-                    <a class='nav-link'href="#"> ACCEUIL </a>
+                    <a class='nav-link'href="mainpage" style="font-size: 15px;"> ACCEUIL </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="aPropos"> A PROPOS </a>
+                    <a class='nav-link' href="aPropos" style="font-size: 15px;"> A PROPOS </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="#articles"> NOS ARTICLES </a>
+                    <a class='nav-link' href="#articles" style="font-size: 15px;"> NOS ARTICLES </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="#partenaires"> NOS PARTENAIRES </a>
+                    <a class='nav-link' href="#partenaires" style="font-size: 15px;"> NOS PARTENAIRES </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="#temoignages"> TEMOIGNAGES </a>
+                    <a class='nav-link' href="#temoignages" style="font-size: 15px;"> TEMOIGNAGES </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="mainpage"> FAIRE UN DON</a>
+                    <a class='nav-link' href="mainpage" style="font-size: 15px;"> FAIRE UN DON</a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="#contact"> CONTACTS </a>
+                    <a class='nav-link' href="#contact" style="font-size: 15px;"> CONTACTS </a>
+                </li>
+                <li class="nav-item">
+                    <a class='nav-link' href="#contact" style="font-size: 15px;"> CONNEXION </a>
                 </li>
             </ul>
         </div>
@@ -58,7 +61,7 @@
             <p id="title_Article">ARTICLES</p>
         </div>
         <div class="articleMixedWithText">
-            <img src="../Wallpaper/1amoureux.jpg" alt="Selected Article">
+            <img src="Wallpaper/1amoureux.jpg" alt="Selected Article">
             <p id="article_text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores sequi praesentium nulla dolores cum expedita atque ullam distinctio, laudantium omnis.
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores sequi praesentium nulla dolores cum expedita atque ullam distinctio, laudantium omnis.

@@ -16,7 +16,7 @@
     
 </head>
 <body>
-    <nav class="navbar navbar-expand-sm bg-light" style="display: grid; grid-template-columns: 0.2fr 1fr 0.2fr;">
+<nav class="navbar navbar-expand-sm bg-light" style="display: grid; grid-template-columns: 0.2fr 1fr 0.2fr;">
         <a href="#">
             <img src="{{asset('Wallpaper/logo2.png')}}" alt="logo" style="width: 100%; height:130px">
         </a>
@@ -24,25 +24,28 @@
             <p style="text-align: center; font-size:20px; font-weight:bold ">JEUNES AMOUREUX DE CHRIST</p>
             <ul class="navbar-nav style" style="justify-content: center;" >
                 <li class="nav-item">
-                    <a class='nav-link'href="#"> ACCEUIL </a>
+                    <a class='nav-link'href="mainpage" style="font-size: 15px;"> ACCEUIL </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="aPropos"> A PROPOS </a>
+                    <a class='nav-link' href="aPropos" style="font-size: 15px;"> A PROPOS </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="#articles"> NOS ARTICLES </a>
+                    <a class='nav-link' href="#articles" style="font-size: 15px;"> NOS ARTICLES </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="#partenaires"> NOS PARTENAIRES </a>
+                    <a class='nav-link' href="#partenaires" style="font-size: 15px;"> NOS PARTENAIRES </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="#temoignages"> TEMOIGNAGES </a>
+                    <a class='nav-link' href="#temoignages" style="font-size: 15px;"> TEMOIGNAGES </a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="mainpage"> FAIRE UN DON</a>
+                    <a class='nav-link' href="mainpage" style="font-size: 15px;"> FAIRE UN DON</a>
                 </li>
                 <li class="nav-item">
-                    <a class='nav-link' href="#contact"> CONTACTS </a>
+                    <a class='nav-link' href="#contact" style="font-size: 15px;"> CONTACTS </a>
+                </li>
+                <li class="nav-item">
+                    <a class='nav-link' href="sidebar_profil" style="font-size: 15px;"> CONNEXION </a>
                 </li>
             </ul>
         </div>
@@ -77,7 +80,7 @@
         </div>
         <div class="nosArticles" id="articles">
             <p style="  color:wheat; font-size:20px; padding-top:5px; margin: 4% 40%; text-align: center; height: 40px; background-color: orangered;border-radius: 5px; ">NOS ARTICLES</p>
-                <div class="contain_all_articles" style="display: flex; flex-wrap: wrap; gap: 10px;justify-content: space-around; margin: 0px 2%;">
+                <div class="contain_all_articles" style="display: flex; flex-wrap: wrap; justify-content:space-around; gap:10px;">
                     <div style="width: 400px; box-shadow: 6px 6px 3px wheat;">
                         <a href="article">
                             <img src="Wallpaper/1amoureux.jpg" alt="les articles présents" style="height: 250px; width: 400px;">
@@ -85,7 +88,6 @@
                         <p style="margin-top: 20px;">EV Reynold TOKANOU</p>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptatibus, accusamus ut in, maxime fugiat veniam eos reiciendis facere, cupiditate sapiente quidem officia nemo? Illum tenetur qui placeat inventore iusto?</p>
                     </div>
-
                     <div style="width: 400px; box-shadow: 6px 6px 3px wheat;">
                         <a href="article">
                             <img src="Wallpaper/1amoureux.jpg" alt="les articles présents" style="height: 250px; width: 400px;">
@@ -93,7 +95,6 @@
                         <p style="margin-top: 20px;">EV Reynold TOKANOU</p>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptatibus, accusamus ut in, maxime fugiat veniam eos reiciendis facere, cupiditate sapiente quidem officia nemo? Illum tenetur qui placeat inventore iusto?</p>
                     </div>
-
                     <div style="width: 400px; box-shadow: 6px 6px 3px wheat;">
                         <a href="article">
                             <img src="Wallpaper/1amoureux.jpg" alt="les articles présents" style="height: 250px; width: 400px;">
@@ -101,7 +102,6 @@
                         <p style="margin-top: 20px;">EV Reynold TOKANOU</p>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptatibus, accusamus ut in, maxime fugiat veniam eos reiciendis facere, cupiditate sapiente quidem officia nemo? Illum tenetur qui placeat inventore iusto?</p>
                     </div>
-
                     <div style="width: 400px; box-shadow: 6px 6px 3px wheat;">
                         <a href="article">
                             <img src="Wallpaper/1amoureux.jpg" alt="les articles présents" style="height: 250px; width: 400px;">
@@ -109,7 +109,6 @@
                         <p style="margin-top: 20px;">EV Reynold TOKANOU</p>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptatibus, accusamus ut in, maxime fugiat veniam eos reiciendis facere, cupiditate sapiente quidem officia nemo? Illum tenetur qui placeat inventore iusto?</p>
                     </div>
-
                     <div style="width: 400px; box-shadow: 6px 6px 3px wheat;">
                         <a href="article">
                             <img src="Wallpaper/1amoureux.jpg" alt="les articles présents" style="height: 250px; width: 400px;">
@@ -117,7 +116,6 @@
                         <p style="margin-top: 20px;">EV Reynold TOKANOU</p>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptatibus, accusamus ut in, maxime fugiat veniam eos reiciendis facere, cupiditate sapiente quidem officia nemo? Illum tenetur qui placeat inventore iusto?</p>
                     </div>
-
                     <div style="width: 400px; box-shadow: 6px 6px 3px wheat;">
                         <a href="article">
                             <img src="Wallpaper/1amoureux.jpg" alt="les articles présents" style="height: 250px; width: 400px;">
@@ -336,6 +334,8 @@
             xx[slideIndex-1].style.display = "block";
             setTimeout(carrousel, 5000); // Change image every 5 seconds
         };
+
+
     </script> 
     
 </body>
